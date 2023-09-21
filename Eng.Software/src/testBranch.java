@@ -1,5 +1,5 @@
 
 public class testBranch {
 //add comment
-	int i =0;
+	int i =2;
 }
